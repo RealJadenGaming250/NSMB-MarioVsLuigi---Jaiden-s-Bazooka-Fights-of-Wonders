@@ -1,17 +1,11 @@
-# NSMB-MarioVsLuigi
-A unity-standalone 2-10 player remake of the Mario vs. Luigi gamemode from the New Super Mario Bros DS download game. 
+# NSMB-MarioVsLuigi - Jaiden's Bazooka Fights of Wonders
+A unity-standalone 2-10 player mod of the Mario vs. Luigi gamemode from the New Super Mario Bros DS download game. 
 
-Includes the 5 default levels (Grassland, Bricks, Castle, Pipes, and Ice), along with a handful of custom levels to battle on! 
-All power-ups are included and remain faithful to their original counterparts, along with the new addition of the Propeller Suit & Ice Flower!
-
-## Discord
-[**Join the discord**](https://discord.gg/dgKVaUKpj5) to keep up to date with the development of the game, make feature suggestions, report bugs (if you're too lazy to use issues...), get technical support, look for people to play with, and just talk about the game!
+Includes Mario, Luigi, Peach, and Toad
 
 ## Download
 
-[Play now in browser on itch.io!](https://ipodtouch0218.itch.io/nsmb-mariovsluigi)
-
-Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/releases/latest
+ermm what
 
 ## Default Controls
 | Action | Keyboard | Gamepad *(unstable)* |
@@ -48,18 +42,8 @@ Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-MarioVsLui
 * Super Mario Maker 2
 
 ### Contributors:
-* [@ipodtouch0218](https://github.com/ipodtouch0218)
-* @GradedWarrior
-* [@TheMoogle](https://github.com/TheMoogle)
-* [@Skillz](https://github.com/Skillz808)
-* [@skarph](https://github.com/skarph)
-* [@Zest](https://github.com/zestydevy)
-* [@kittenchilly](https://github.com/kittenchilly)
-* [@Amy54Desu](https://github.com/Amy54Desu)
-* [@Kraken](https://github.com/KrakHub)
-* [@ShadowWalker13](https://github.com/ShadowWalker13)
-* [@GithubSPerez](https://github.com/GithubSPerez)
-* [@mindnomad](https://github.com/mindnomad)
+
+I don't have any
 
 ### Music:
 * [RENREN](https://mistajub.bandcamp.com/)
