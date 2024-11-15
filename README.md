@@ -27,10 +27,23 @@ ermm what
 * New Super Mario Bros.
 * New Super Mario Bros. Wii
 * Super Mario Maker 2
+### Mod Contributros
+* [@Meddourk](https://github.com/Meddourk95gamingYT)
+* [@RealJaidenGaming250](https://github.com/RealJadenGaming250)
+### Vanilla Mvl Contributors:
+* [@ipodtouch0218](https://github.com/ipodtouch0218)
+* @GradedWarrior
+* [@TheMoogle](https://github.com/TheMoogle)
+* [@Skillz](https://github.com/Skillz808)
+* [@skarph](https://github.com/skarph)
+* [@Zest](https://github.com/zestydevy)
+* [@kittenchilly](https://github.com/kittenchilly)
+* [@Amy54Desu](https://github.com/Amy54Desu)
+* [@Kraken](https://github.com/KrakHub)
+* [@ShadowWalker13](https://github.com/ShadowWalker13)
+* [@GithubSPerez](https://github.com/GithubSPerez)
+* [@mindnomad](https://github.com/mindnomad)
 
-### Contributors:
-
-I don't have any
 
 ### Music:
 * [RENREN](https://mistajub.bandcamp.com/)
