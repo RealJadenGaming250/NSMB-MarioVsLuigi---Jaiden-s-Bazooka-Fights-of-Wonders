@@ -19,8 +19,6 @@ ermm what
 | Pause | Escape | Start Button |
 | UI Confirm | Left Mouse / Enter / Z | A Button |
 
-<details>
-
 </details>
 <details>
   <summary><h2>Credits</h2></summary>
