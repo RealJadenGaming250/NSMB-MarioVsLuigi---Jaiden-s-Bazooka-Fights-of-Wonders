@@ -28,7 +28,6 @@ ermm what
 * New Super Mario Bros. Wii
 * Super Mario Maker 2
 ### Mod Contributros
-* [@Meddourk](https://github.com/Meddourk95gamingYT)
 * [@RealJaidenGaming250](https://github.com/RealJadenGaming250)
 ### Vanilla Mvl Contributors:
 * [@ipodtouch0218](https://github.com/ipodtouch0218)
